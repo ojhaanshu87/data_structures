@@ -36,7 +36,3 @@ def longest_palindrome(string_elem):
     print string_elem[start:start + max_len]
  
     return max_len
- 
-# # Driver program to test above functions
-# string = "forgeeksskeegfor"
-# print "Length is: " + str(longest_palindrome(string))
