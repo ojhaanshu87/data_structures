@@ -9,11 +9,11 @@ def longest_palindrome(string_elem):
  
     # One by one consider every character as center point of 
     # even and length palindromes
-    for i in xrange(1, length):
+    for elem in xrange(1, length):
     # Find the longest even length palindrome with center
     # points as i-1 and i.
-        low = i - 1
-        high = i
+        low = elem - 1
+        high = elem
         while low >= 0 and high < length and string_elem[low] == string_elem[high]:
             if high - low + 1 > max_len:
                 start = low
@@ -22,9 +22,9 @@ def longest_palindrome(string_elem):
             high += 1
  
         # Find the longest odd length palindrome with center 
-        # point as i
-        low = i - 1
-        high = i + 1
+        # point as elem
+        low = elem - 1
+        high = elem + 1
         while low >= 0 and high < length and string_elem[low] == string_elem[high]:
             if high - low + 1 > max_len:
                 start = low
