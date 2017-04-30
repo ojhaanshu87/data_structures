@@ -5,7 +5,7 @@
 #     Iterate floor j from 2 to total_floors
 #         Set table[i][j] = INFINITY
 #         Iterate floor k from 1 to j
-#             Set maxDrop = 1 + max(table[i-1][k-1], table[i][j-k])
+#             Set maxDrop = 1 + max(table[i-1][k-1], table[i][ji-k])
 #             If table[i][j] > maxDrop then
 #                 Set table[i][j] = maxDrop
 
