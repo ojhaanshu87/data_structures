@@ -31,5 +31,4 @@ class LinkedList:
 			count +=1
 		if next is not None:
 			head.next = self.reverse_k_size(next, k)
-
 		return prev
