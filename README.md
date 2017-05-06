@@ -47,3 +47,33 @@
 [reverse stack using recursion](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/reve_stack_recursion.py) :thumbsup: <br />
 [tower of hanoi](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/tower_of_hanoi.py) :-1: <br />
 
+**String** <br />
+[all permutation](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/all_permutation.py) :thumbsup: <br />
+[max occour character](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/max_occour_char.py) :thumbsup: <br />
+[remove duplicate character](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/remove_duplicate_char.py) :thumbsup: <br />
+[reverse sentence](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/reverse_sentance.py) :thumbsup: <br />
+[RLE non recursive way](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/run_length_encode_decode_non_recur.py) :thumbsup: <br />
+[RLE recursive way](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/run_length_encode_decode_recur.py) :thumbsup: <br />
+
+**Tree** <br />
+[check array elemnt makes BST](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/array_elem_check_BST.py) :thumbsup: <br />
+[children sum check](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/children_sum_check.py) :thumbsup: <br />
+[distance b/w two keys](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/dist_bw_keys.py) :thumbsup: <br />
+[expression tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/expression_tree.py) :thumbsup: <br />
+[k distance from node](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/k_dist_from_given_node.py) :thumbsup: <br />
+[k distance from root](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/k_dist_from_root.py) :thumbsup: <br />
+[lca of binary tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/lca_bintree.py) :thumbsup: <br />
+[left view of tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/left_view_tree.py) :thumbsup: <br />
+[level order traversal](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/level_order.py) :thumbsup: <br />
+[level order in spiral form](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/level_order_spiral.py) :thumbsup: <br />
+[mirror tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/mirror_tree.py) :thumbsup: <br />
+[reverse alternate node](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/reverse_alternate_node.py) :thumbsup: <br />
+[reverse level order](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/reverse_level_order.py) :thumbsup: <br />
+[root to leaf node in one line each](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/root_to_leaf_path.py) :thumbsup: <br />
+[size and max depth](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/size_and_max_depth.py) :thumbsup: <br />
+[sum of tree node makes given target or not](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/sum_to_given_num_check.py) :thumbsup: <br />
+[sum tree conversion](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/sum_tree_convert.py) :thumbsup: <br />
+[tree all](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/tree_all.py) :thumbsup: <br />
+[vertical order traversal](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/vertical_order_traversal.py) :thumbsup: <br />
+
+
