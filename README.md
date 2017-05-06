@@ -38,4 +38,12 @@
 [reverse link list](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/reverse_element.py) :thumbsup: <br />
 [reverse list of given size](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/reverse_list_give_size.py) :thumbsup: <br />
 
+**Stack** <br />
+[balance parenthesis](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/balance_parenthesis.py) :thumbsup: <br />
+[celebrety problem](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/celebrety_problem.py) :-1: <br />
+[create stack](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/create_stack.py) :thumbsup: <br />
+[merged interval](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/merged_interval.py) :thumbsup: <br />
+[next greater elem](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/next_greater_elem.py) :thumbsup: <br />
+[reverse stack using recursion](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/reve_stack_recursion.py) :thumbsup: <br />
+[tower of hanoi](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/tower_of_hanoi.py) :-1: <br />
 
