@@ -50,6 +50,7 @@
 **String** <br />
 [all permutation](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/all_permutation.py) :thumbsup: <br />
 [anagram strings checker](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/anagram_or_not.py) :thumbsup: <br />
+[lexiographic rank of string](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/lexiographic_order.py) :thumbsup: <br />
 [max occour character](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/max_occour_char.py) :thumbsup: <br />
 [remove duplicate character](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/remove_duplicate_char.py) :thumbsup: <br />
 [reverse sentence](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/reverse_sentance.py) :thumbsup: <br />
