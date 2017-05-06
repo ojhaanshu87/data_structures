@@ -7,6 +7,7 @@ def max_occour_char(string):
 	char = ''
 	for elem in string:
 		count[ord(elem)] +=1
+		
 	for elem in string:
 		if max_count < count[ord(elem)]:
 			max_count = ord(elem)
