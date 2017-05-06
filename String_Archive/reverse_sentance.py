@@ -19,4 +19,4 @@ def reverse_each_word_sentance(arr):
 			reverse_each_word(arr,start_index,end_index)
 			start_index = i+1 #next character!
 	#IMPORTANT: Handle last word!
-	reverse_each_word(arr,start_index,len(a)-1)
+	reverse_each_word(arr,start_index,len(arr)-1)
