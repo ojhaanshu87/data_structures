@@ -74,6 +74,7 @@
 [reverse level order](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/reverse_level_order.py) :thumbsup: <br />
 [root to leaf node in one line each](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/root_to_leaf_path.py) :thumbsup: <br />
 [size and max depth](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/size_and_max_depth.py) :thumbsup: <br />
+[sorted array to balanced BST](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/sorted_array_to_balnced_bst.py) :thumbsup: <br />
 [sum of tree node makes given target or not](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/sum_to_given_num_check.py) :thumbsup: <br />
 [sum tree conversion](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/sum_tree_convert.py) :thumbsup: <br />
 [tree all](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/tree_all.py) :thumbsup: <br />
