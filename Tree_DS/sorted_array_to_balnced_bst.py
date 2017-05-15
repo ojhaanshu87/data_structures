@@ -12,7 +12,7 @@
 #       a) Get the middle of left half and make it left child of the root
 #           created in step 1.
 #       b) Get the middle of right half and make it right child of the
-#           root created in step 1.
+#           root created in step one.
 
 
 
