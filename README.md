@@ -1,7 +1,8 @@
 ### Data Structures
 **Array** <br />
 [arrange num to largest](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/arrange_num_to_largest.py) :thumbsup: <br />
-[common in three lists](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/arrange_num_to_largest.py) :thumbsup:  <br />
+[common in three lists](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/common_elem_three_array.py
+) :thumbsup:  <br />
 [maximum prod subarray](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/max_prod_subarray.py) :thumbsup: <br />
 [nut and bolt](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/nut_and_bolt.py) :thumbsup: <br />
 [pair sum](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/pair_sum.py) :thumbsup: <br />
