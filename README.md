@@ -39,6 +39,9 @@
 [reverse link list](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/reverse_element.py) :thumbsup: <br />
 [reverse list of given size](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/reverse_list_give_size.py) :thumbsup: <br />
 
+**Miscellaneous_Archive** <br />
+[robot movement](https://github.com/ojhaanshu87/data_structures/tree/master/Miscellaneous_Archive) <br />
+
 **Stack** <br />
 [balance parenthesis](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/balance_parenthesis.py) :thumbsup: <br />
 [celebrety problem](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/celebrety_problem.py) :-1: <br />
