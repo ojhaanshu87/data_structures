@@ -41,6 +41,7 @@
 
 **Miscellaneous_Archive** <br />
 [check power of two](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/check_num_is_power_of_two.py) :thumbsup: <br />
+[count possible path in matrix](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/count_possible_path_matrix.py) :thumbsup: <br />
 [near by multiple](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/near_by_multiple.py) :thumbsup: <br />
 [robot movement](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/robot_puzzle.py) :thumbsup: <br />
 [who survive last : classical joseph problem](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/joseph_problem.py) :thumbsup: <br />
