@@ -41,7 +41,7 @@
 
 **Miscellaneous_Archive** <br />
 [robot movement](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/robot_puzzle.py) :thumbsup: <br />
-[near by multiple](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/near_by_multilple.py) :thumbsup: <br />
+[near by multiple](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/near_by_multiple.py) :thumbsup: <br />
 
 **Stack** <br />
 [balance parenthesis](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/balance_parenthesis.py) :thumbsup: <br />
