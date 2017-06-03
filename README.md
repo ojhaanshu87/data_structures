@@ -40,9 +40,10 @@
 [reverse list of given size](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/reverse_list_give_size.py) :thumbsup: <br />
 
 **Miscellaneous_Archive** <br />
-[check power_of_two](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/check_num_is_power_of_two.py) :thumbsup: <br />
+[check power of two](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/check_num_is_power_of_two.py) :thumbsup: <br />
 [near by multiple](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/near_by_multiple.py) :thumbsup: <br />
 [robot movement](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/robot_puzzle.py) :thumbsup: <br />
+[who survive last : classical joseph problem](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/joseph_problem.py) :thumbsup: <br />
 
 
 **Stack** <br />
