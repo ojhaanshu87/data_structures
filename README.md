@@ -40,7 +40,8 @@
 [reverse list of given size](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/reverse_list_give_size.py) :thumbsup: <br />
 
 **Miscellaneous_Archive** <br />
-[robot movement](https://github.com/ojhaanshu87/data_structures/tree/master/Miscellaneous_Archive) <br />
+[robot movement](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/robot_puzzle.py) :thumbsup: <br />
+[near by multiple](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/near_by_multilple.py) :thumbsup: <br />
 
 **Stack** <br />
 [balance parenthesis](https://github.com/ojhaanshu87/data_structures/blob/master/Stack_Archive/balance_parenthesis.py) :thumbsup: <br />
