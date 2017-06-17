@@ -31,6 +31,7 @@
 [count elemnts](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/element_count.py) :thumbsup: <br />
 [get nth node](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/get_nth_node.py) :thumbsup: <br />
 [get nth node from end](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/get_nth_node_from_end.py) :thumbsup: <br />
+[insert node in sorted CLL](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/insert_node_sorted_circular_link_list.py) :thumbsup: <br />
 [intersection of link list](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/intersection_link_list.py) :thumbsup: <br />
 [middle elemnt](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/middle_elem.py) :thumbsup: <br />
 [pair swap](https://github.com/ojhaanshu87/data_structures/blob/master/LinkList_Archive/pair_swap.py) :thumbsup: <br />
