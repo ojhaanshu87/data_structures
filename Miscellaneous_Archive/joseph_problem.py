@@ -104,5 +104,3 @@ def winner_person(number_of_persons):
 	winner = 2 *(number_of_persons-largest_pow_less_than_num) +1
 	return winner
 
-
-
