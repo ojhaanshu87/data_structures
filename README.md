@@ -69,6 +69,7 @@
 [RLE recursive way](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/run_length_encode_decode_recur.py) :thumbsup: <br />
 
 **Tree** <br />
+[boundary traversal of binary tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/boundary_traversal_bin_tree.py) :thumbsup: <br />
 [check array elemnt makes BST](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/array_elem_check_BST.py) :thumbsup: <br />
 [children sum check](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/children_sum_check.py) :thumbsup: <br />
 [distance b/w two keys](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/dist_bw_keys.py) :thumbsup: <br />
