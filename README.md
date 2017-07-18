@@ -71,6 +71,7 @@
 
 **Tree** <br />
 [boundary traversal of binary tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/boundary_traversal_bin_tree.py) :thumbsup: <br />
+[BST (insert, search and delete)](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/bst_operations.py) :thumbsup: <br />
 [check array elemnt makes BST](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/array_elem_check_BST.py) :thumbsup: <br />
 [children sum check](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/children_sum_check.py) :thumbsup: <br />
 [distance b/w two keys](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/dist_bw_keys.py) :thumbsup: <br />
