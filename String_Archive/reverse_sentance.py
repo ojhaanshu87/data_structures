@@ -1,22 +1,21 @@
-#Utility function for reverse_each_words all the characters between a start and end index
-def reverse_each_word(arr,start,end):
-	while start < end:
-		arr[start], arr[end] = arr[end], arr[start]
-		start += 1
-		end -= 1
+class Solution(object):
+	def __init__(self, sentence):
+		self.sentence = sentence
 
-def reverse_each_word_sentance(arr):
-	#step 1: reverse_each_word the entire string
-	reverse_each_word(arr,0,len(arr)-1)
+	def reverse(self):
+	    #Tokenise each word
+		token = self.sentence.split(' ')
+		#calculate length of word
+		length = len(token)
+		#iterate through the length
+		for elem in range(length/2):
+			#make temproray veriable to store each word and reverse till loop complete
+			temp = token[elem]
+			token[elem] = token[length-elem-1]
+			token[length-elem-1] = temp
 
-	#step 2: reverse_each_word
-	start_index = 0
-	end_index = 0
+		return ' '.join([x for x in token])
 
-	for i in range(0,len(arr)):
-		if arr[i] == " ":  #end of word!
-			end_index = i-1 #leave the space
-			reverse_each_word(arr,start_index,end_index)
-			start_index = i+1 #next character!
-	#IMPORTANT: Handle last word!
-	reverse_each_word(arr,start_index,len(arr)-1)
+if __name__=='__main__':
+    solution = Solution("how are you")
+    print solution.reverse()
