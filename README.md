@@ -43,6 +43,7 @@
 **Miscellaneous_Archive** <br />
 [check power of two](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/check_num_is_power_of_two.py) :thumbsup: <br />
 [count possible path in matrix](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/count_possible_path_matrix.py) :thumbsup: <br />
+[excel sheet column name from integer](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/excel_col_associated_to_num.py) :thumbsup: <br />
 [near by multiple](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/near_by_multiple.py) :thumbsup: <br />
 [robot movement](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/robot_puzzle.py) :thumbsup: <br />
 [trie (insert and search)](https://github.com/ojhaanshu87/data_structures/blob/master/Miscellaneous_Archive/trie.py) :thumbsup: <br />
