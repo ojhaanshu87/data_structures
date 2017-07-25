@@ -64,6 +64,7 @@
 [all permutation](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/all_permutation.py) :thumbsup: <br />
 [anagram strings checker](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/anagram_or_not.py) :thumbsup: <br />
 [lexiographic rank of string](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/lexiographic_order.py) :thumbsup: <br />
+[longest common substring (LCS)](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/lcs.py) :thumbsup: <br />
 [longest palindrome substring (LPS)](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/longest_palindrome_substring.py) :-1: <br />
 [max occour character](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/max_occour_char.py) :thumbsup: <br />
 [remove duplicate character](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/remove_duplicate_char.py) :thumbsup: <br />
