@@ -94,6 +94,7 @@
 [sum of tree node makes given target or not](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/sum_to_given_num_check.py) :thumbsup: <br />
 [sum tree conversion](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/sum_tree_convert.py) :thumbsup: <br />
 [tree all](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/tree_all.py) :thumbsup: <br />
+[tree traversal iterative](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/ltree_travesal_iterative.py) :thumbsup: <br />
 [vertical order traversal](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/vertical_order_traversal.py) :thumbsup: <br />
 
 
