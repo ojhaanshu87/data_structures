@@ -85,6 +85,7 @@
 [left view of tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/left_view_tree.py) :thumbsup: <br />
 [level order traversal](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/level_order.py) :thumbsup: <br />
 [level order in spiral form](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/level_order_spiral.py) :thumbsup: <br />
+[level order in spiral using stack](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/level_order_spiral_using_stack.py) :thumbsup: <br />
 [mirror tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/mirror_tree.py) :thumbsup: <br />
 [reverse alternate node](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/reverse_alternate_node.py) :thumbsup: <br />
 [reverse level order](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/reverse_level_order.py) :thumbsup: <br />
