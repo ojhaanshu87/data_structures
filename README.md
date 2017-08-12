@@ -82,6 +82,7 @@
 [k distance from node](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/k_dist_from_given_node.py) :thumbsup: <br />
 [k distance from root](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/k_dist_from_root.py) :thumbsup: <br />
 [lca of binary tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/lca_bintree.py) :thumbsup: <br />
+[lca of binary search tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/lca_binary_search.py) :thumbsup: <br />
 [left view of tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/left_view_tree.py) :thumbsup: <br />
 [level order traversal](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/level_order.py) :thumbsup: <br />
 [level order in spiral form](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/level_order_spiral.py) :thumbsup: <br />
