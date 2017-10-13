@@ -68,7 +68,7 @@
 [longest common subsequence (LCS)](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/lcs.py) :thumbsup: <br />
 [longest palindrome subsequence (LPS)](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/lps.py) :thumbsup: <br />
 [max occour character](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/max_occour_char.py) :thumbsup: <br />
-[remove duplicate character](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/remove_duplicate_char.py) :thumbsup: <br />
+[remove duplicate character (extra space)](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/remove_duplicate_char.py) :thumbsup: <br />
 [reverse sentence](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/reverse_sentance.py) :thumbsup: <br />
 [RLE non recursive way](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/run_length_encode_decode_non_recur.py) :thumbsup: <br />
 [RLE recursive way](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/run_length_encode_decode_recur.py) :thumbsup: <br />
