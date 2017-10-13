@@ -1,15 +1,15 @@
-MAX_SIZE = 256
-def max_occour_char(string):
-	#initialise count to zero
-	count = [0]*MAX_SIZE
-	#define initially max as -1
-	max_count = -1
-	char = ''
-	for elem in string:
-		count[ord(elem)] +=1
-		
-	for elem in string:
-		if max_count < count[ord(elem)]:
-			max_count = ord(elem)
-			char = elem
-	return char
+class Solution(object):
+	def __init__(self, string):
+		self.string = string
+
+	def max_repeat_char(self):
+		#define empty dictionary
+		dict = {}
+		#traverse String
+		for char in self.string:
+			if char in dict:
+				dict[char] +=1
+			else:
+				dict[char] = 1
+
+		return max(zip(dict.keys(), dict.values()), key=lambda k : k[1])[0]
