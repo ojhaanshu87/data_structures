@@ -5,6 +5,7 @@
 ) :thumbsup:  <br />
 [maximum prod subarray](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/max_prod_subarray.py) :thumbsup: <br />
 [nut and bolt](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/nut_and_bolt.py) :thumbsup: <br />
+[odd element in array](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/odd_occurance_elem.py) :thumbsup: <br />
 [pair sum](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/pair_sum.py) :thumbsup: <br />
 [product array except index](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/product_array_except_index.py) :thumbsup: <br />
 [segerate 0 and 1](https://github.com/ojhaanshu87/data_structures/blob/master/Array_Archive/segerate_0_1_array.py) :thumbsup: <br />
