@@ -75,6 +75,8 @@
 [reverse sentence](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/reverse_sentance.py) :thumbsup: <br />
 [RLE non recursive way](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/run_length_encode_decode_non_recur.py) :thumbsup: <br />
 [RLE recursive way](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/run_length_encode_decode_recur.py) :thumbsup: <br />
+[Word Anagram](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/word_anagram.py) :thumbsup: <br />
+[Word Anagram Together](https://github.com/ojhaanshu87/data_structures/blob/master/String_Archive/word_anagram_together.py) :thumbsup: <br />
 
 **Tree** <br />
 [boundary traversal of binary tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/boundary_traversal_bin_tree.py) :thumbsup: <br />
