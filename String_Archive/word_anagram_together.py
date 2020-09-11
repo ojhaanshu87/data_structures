@@ -1,4 +1,4 @@
-class Solution():
+class Solutions():
   def __init__(self, list_of_str):
     self.str_list = list_of_str
 
@@ -19,4 +19,4 @@ class Solution():
     return result
 
 #[['ngi', 'ing'], ['cba', 'bca', 'cab']]
-print Solution(['cab', 'nye', 'ing', 'bca', 'zyx', 'cba', 'ngi', 'nyee']).word_anagram_together()
+print Solutions(['cab', 'nye', 'ing', 'bca', 'zyx', 'cba', 'ngi', 'nyee']).word_anagram_together()
