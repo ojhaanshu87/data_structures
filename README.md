@@ -84,6 +84,7 @@
 [check array elemnt makes BST](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/array_elem_check_BST.py) :thumbsup: <br />
 [children sum check](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/children_sum_check.py) :thumbsup: <br />
 [distance b/w two keys](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/dist_bw_keys.py) :thumbsup: <br />
+[distance b/w keys at same level](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/distance_between_node_same_level.py) :thumbsup: <br />
 [expression tree](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/expression_tree.py) :thumbsup: <br />
 [k distance from node](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/k_dist_from_given_node.py) :thumbsup: <br />
 [k distance from root](https://github.com/ojhaanshu87/data_structures/blob/master/Tree_DS/k_dist_from_root.py) :thumbsup: <br />
