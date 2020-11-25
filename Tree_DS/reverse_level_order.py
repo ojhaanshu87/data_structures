@@ -27,7 +27,36 @@ class Tree(object):
 			pop_elem = stack.pop()
 			print pop_elem.val,
 
-	
+"""
+RECURSIVE APPROACH
+INPUT
+    3
+   / \
+  9  20
+    /  \
+   15   7
+OUTPUT
+[
+  [15,7],
+  [9,20],
+  [3]
+]
+
+class Solution:
+    def levelOrderBottom(self, root: TreeNode) -> List[List[int]]:
+        sol = {}
+        def traversal(node, depth=0):
+            if not node:
+                return
+            traversal(node.left, depth+1)
+            if depth in sol:
+                sol[depth].append(node.val)
+            else:
+                sol[depth] = [node.val]
+            traversal(node.right, depth+1)
+        traversal(root)
+        return [arr for key,arr in sorted(sol.items(), key=lambda x: x[0], reverse=True)]
+"""
 #Time Complexity: O(n) where n is number of nodes in the binary tree.	
 # tree_obj = Tree()
 # tree_obj.root = Node(1)
